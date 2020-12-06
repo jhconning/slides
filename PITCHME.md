@@ -13,7 +13,10 @@ _paginate: false
 
 Hosting Marp slide deck on the web
 
-https://github.com/yhatt/marp-cli-example
+This deck:  https://slidetest.vercel.app/
+
+Adapted from: https://github.com/yhatt/marp-cli-example
+
 
 <style scoped>a { color: #eee; }</style>
 
@@ -67,9 +70,3 @@ https://github.com/yhatt/marp-cli-example
 ### <!--fit--> :ok_hand:
 
 ---
-
-![bg 40% opacity blur](https://avatars1.githubusercontent.com/u/3993388?v=4)
-
-### Created by Yuki Hattori ([@yhatt](https://github.com/yhatt))
-
-https://github.com/yhatt/marp-cli-example
