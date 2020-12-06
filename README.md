@@ -1,5 +1,7 @@
 # Marp CLI example
 
+(adapted from  https://yhatt.github.io/marp-cli-example)
+
 **The good starter example for using [Marp] via [Marp CLI].**
 
 - Write your slide deck by [Marp] Markdown.
@@ -19,8 +21,8 @@
 ## See published slide deck
 
 - <img src="https://icongr.am/octicons/mark-github.svg" width="24" height="24" valign="bottom" /> **[GitHub Pages]**: https://yhatt.github.io/marp-cli-example
-- <img src="https://www.netlify.com/img/press/logos/logomark.svg" width="24" height="24" valign="bottom" /> **[Netlify]**: https://yhatt-marp-cli-example.netlify.app/
-- <img src="https://icongr.am/simple/zeit.svg" width="24" height="24" valign="bottom" /> **[Vercel]**: https://marp-cli-example.yhatt.vercel.app/
+- **[Netlify]**: https://yhatt-marp-cli-example.netlify.app/ 
+- **[Vercel]**: https://slidetest.vercel.app/  <--JC
 
 ## Usage
 
